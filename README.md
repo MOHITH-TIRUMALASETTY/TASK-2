@@ -95,5 +95,5 @@ Requests
 This project communicates with the DeepSeek API to generate bot responses. You need to sign up for a DeepSeek API key and use it in the Flask backend (app.py). Replace YOUR_API_KEY with your actual key.
 
 ## Screenshots:
-![App Screenshot](./deepseek_app.jpg) 
+![App Screenshot](./Deepseek_app.jpg) 
 
